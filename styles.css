@@ -1,0 +1,89 @@
+body {
+    background-color: #EBF2FA;
+    margin: 0 10%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+h1 {
+    font-family: 'Overpass', sans-serif;
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.container {
+    border: 2px solid #427AA1;
+    padding: 10px;
+    margin: 10px;
+}
+
+.colors {
+    width: 100%;
+}
+
+.color-panel {
+    width: 18%;
+    height: 600px;
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.blue-saphire {
+    background-color: #05668D;
+}
+
+.steel-blue {
+    background-color: #427AA1;
+}
+
+.alice-blue {
+    background-color: #EBF2FA;
+}
+
+.maximum-green {
+    background-color: #679436;
+}
+
+.acid-green {
+    background-color: #A5BE00;
+}
+
+.font-panel {
+    display: inline-block;
+    width: 45%;
+    line-height: 25px;
+}
+
+.font-label {
+    font-size: 24px;
+    text-decoration: underline;
+}
+
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.proza-libre {
+    font-family: 'Proza Libre', sans-serif;
+}
+
+.overpass {
+    font-family: 'Overpass', sans-serif;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.italic {
+    font-style: italic;
+}
